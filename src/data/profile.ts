@@ -25,7 +25,7 @@ export const profileData: ProfileData = {
   socialLinks: {
     github: 'https://github.com/abhinavdewangan',
     linkedin: 'https://linkedin.com/in/abhinavdewangan',
-    email: 'abhinav.dewangan.dev@gmail.com',
+    email: 'abhinavdewangan64@gmail.com',
     leetcode: 'https://leetcode.com/abhinavdewangan',
   },
 };
